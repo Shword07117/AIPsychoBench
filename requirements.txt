@@ -1,0 +1,16 @@
+pyyaml
+httpx
+tqdm
+openai
+tenacity
+pandas
+numpy
+matplotlib
+scipy
+azure-cognitiveservices-speech
+zhipuai
+requests
+dataclasses
+typing
+uuid
+seaborn

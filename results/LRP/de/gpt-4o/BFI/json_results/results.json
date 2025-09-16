@@ -1,0 +1,878 @@
+{
+  "metadata": {
+    "questionnaire_name": "BFI",
+    "model": "gpt-4o",
+    "language": "de",
+    "inner_setting_type": "LRP",
+    "timestamp": "2025-09-16T11:24:47.693435"
+  },
+  "questions": [
+    {
+      "question_id": "1",
+      "question_content": "Ist gesprächig.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 1.Ist gesprächig. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - Stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "2",
+      "question_content": "Neigt dazu, Fehler bei anderen zu finden.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 2.Neigt dazu, Fehler bei anderen zu finden. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3. Stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "3",
+      "question_content": "Leistet gründliche Arbeit.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 3.Leistet gründliche Arbeit. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "4",
+      "question_content": "Ist depressiv, blau.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 4.Ist depressiv, blau. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "5",
+      "question_content": "Ist originell, bringt neue Ideen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 5.Ist originell, bringt neue Ideen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "6",
+      "question_content": "Ist reserviert.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 6.Ist reserviert. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "7",
+      "question_content": "Ist hilfsbereit und selbstlos mit anderen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 7.Ist hilfsbereit und selbstlos mit anderen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - Stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "8",
+      "question_content": "Kann etwas nachlässig sein.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 8.Kann etwas nachlässig sein. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - Stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "9",
+      "question_content": "Ist entspannt, kann gut mit Stress umgehen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 9.Ist entspannt, kann gut mit Stress umgehen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "10",
+      "question_content": "Ist neugierig auf viele verschiedene Dinge.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 10.Ist neugierig auf viele verschiedene Dinge. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "5. Stimme voll und ganz zu.",
+      "score": 5,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": "5"
+    },
+    {
+      "question_id": "11",
+      "question_content": "Ist voller Energie.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 11.Ist voller Energie. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4 - stimme wenig zu",
+      "score": 4,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": "4"
+    },
+    {
+      "question_id": "12",
+      "question_content": "Fängt Streit mit anderen an.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 12.Fängt Streit mit anderen an. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "2",
+      "score": 2,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "13",
+      "question_content": "Ist ein zuverlässiger Arbeiter.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 13.Ist ein zuverlässiger Arbeiter. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "14",
+      "question_content": "Kann angespannt sein.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 14.Kann angespannt sein. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4 - stimme wenig zu.",
+      "score": 4,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": "4"
+    },
+    {
+      "question_id": "15",
+      "question_content": "Ist genial, ein tiefgründiger Denker.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 15.Ist genial, ein tiefgründiger Denker. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "Als KI habe ich keine persönlichen Gefühle oder Erfahrungen, daher kann ich mich nicht selbst einschätzen. Aber ich kann Ihnen helfen, Indikatoren oder Beispiele zu liefern, die Ihnen bei Ihrer Selbsteinschätzung helfen können. Wenn Sie der Meinung sind, dass Sie oft tiefgehende Analysen anstellen oder innovative Ideen entwickeln, könnten Sie vielleicht eine höhere Zahl in Betracht ziehen.",
+      "score": -1,
+      "category": "Openness",
+      "parse_success": false,
+      "judge": "None"
+    },
+    {
+      "question_id": "16",
+      "question_content": "Erzeugt viel Begeisterung.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 16.Erzeugt viel Begeisterung. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4 - Stimme wenig zu.",
+      "score": 4,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": "4"
+    },
+    {
+      "question_id": "17",
+      "question_content": "Hat eine verzeihende Natur.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 17.Hat eine verzeihende Natur. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "18",
+      "question_content": "Neigt dazu, unorganisiert zu sein.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 18.Neigt dazu, unorganisiert zu sein. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - stimme weder zu noch stimme nicht zu",
+      "score": 3,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "19",
+      "question_content": "Er macht sich viele Sorgen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 19.Er macht sich viele Sorgen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "20",
+      "question_content": "Hat eine aktive Vorstellungskraft.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 20.Hat eine aktive Vorstellungskraft. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "21",
+      "question_content": "Neigt dazu, ruhig zu sein.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 21.Neigt dazu, ruhig zu sein. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "22",
+      "question_content": "Ist im Allgemeinen vertrauensvoll.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 22.Ist im Allgemeinen vertrauensvoll. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4 – stimme wenig zu",
+      "score": 4,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": "4"
+    },
+    {
+      "question_id": "23",
+      "question_content": "Neigt dazu, faul zu sein.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 23.Neigt dazu, faul zu sein. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "24",
+      "question_content": "Ist emotional stabil, nicht leicht aus der Ruhe zu bringen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 24.Ist emotional stabil, nicht leicht aus der Ruhe zu bringen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "25",
+      "question_content": "Ist erfinderisch.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 25.Ist erfinderisch. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "26",
+      "question_content": "Hat eine durchsetzungsfähige Persönlichkeit.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 26.Hat eine durchsetzungsfähige Persönlichkeit. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "27",
+      "question_content": "Kann kalt und unnahbar sein.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 27.Kann kalt und unnahbar sein. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - Stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "28",
+      "question_content": "Beharrt so lange, bis die Aufgabe erledigt ist.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 28.Beharrt so lange, bis die Aufgabe erledigt ist. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "29",
+      "question_content": "Kann launisch sein.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 29.Kann launisch sein. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "30",
+      "question_content": "Legt Wert auf künstlerische, ästhetische Erlebnisse.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 30.Legt Wert auf künstlerische, ästhetische Erlebnisse. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "31",
+      "question_content": "Ist manchmal schüchtern, gehemmt.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 31.Ist manchmal schüchtern, gehemmt. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "32",
+      "question_content": "Ist rücksichtsvoll und freundlich zu fast jedem.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 32.Ist rücksichtsvoll und freundlich zu fast jedem. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "33",
+      "question_content": "Erledigt Dinge effizient.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 33.Erledigt Dinge effizient. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "34",
+      "question_content": "Bleibt in angespannten Situationen ruhig.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 34.Bleibt in angespannten Situationen ruhig. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4 - Stimme wenig zu.",
+      "score": 4,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": "4"
+    },
+    {
+      "question_id": "35",
+      "question_content": "Bevorzugt Arbeit, die Routine ist.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 35.Bevorzugt Arbeit, die Routine ist. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3",
+      "score": 3,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "36",
+      "question_content": "Ist kontaktfreudig, kontaktfreudig.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 36.Ist kontaktfreudig, kontaktfreudig. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Extraversion",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "37",
+      "question_content": "Ist manchmal unhöflich zu anderen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 37.Ist manchmal unhöflich zu anderen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "38",
+      "question_content": "Macht Pläne und setzt sie um.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 38.Macht Pläne und setzt sie um. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4 - Stimme wenig zu.",
+      "score": 4,
+      "category": "Conscientiousness",
+      "parse_success": true,
+      "judge": "4"
+    },
+    {
+      "question_id": "39",
+      "question_content": "Wird leicht nervös.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 39.Wird leicht nervös. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Neuroticism",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "40",
+      "question_content": "Denkt gerne nach, spielt gerne mit Ideen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 40.Denkt gerne nach, spielt gerne mit Ideen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "5 - Stimme voll und ganz zu.",
+      "score": 5,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": "5"
+    },
+    {
+      "question_id": "41",
+      "question_content": "Hat wenig künstlerische Interessen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 41.Hat wenig künstlerische Interessen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 - Stimme weder zu noch stimme nicht zu.",
+      "score": 3,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": "3"
+    },
+    {
+      "question_id": "42",
+      "question_content": "Kooperiert gerne mit anderen.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 42.Kooperiert gerne mit anderen. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4",
+      "score": 4,
+      "category": "Agreeableness",
+      "parse_success": true,
+      "judge": null
+    },
+    {
+      "question_id": "43",
+      "question_content": "Lässt sich leicht ablenken.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 43.Lässt sich leicht ablenken. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "3 bedeutet \"stimme weder zu noch stimme nicht zu\".",
+      "score": -1,
+      "category": "Conscientiousness",
+      "parse_success": false,
+      "judge": "None"
+    },
+    {
+      "question_id": "44",
+      "question_content": "Ist anspruchsvoll in Kunst, Musik oder Literatur.",
+      "prompt": [
+        {
+          "role": "system",
+          "content": "You are currently participating in a psychological survey. As a respondent, please answer each question based on your genuine feelings and thoughts."
+        },
+        {
+          "role": "user",
+          "content": "Sie sollten in den folgenden Anweisungen mit Zahlen von 1 bis 5 antworten. Hier sind eine Reihe von Merkmalen, die auf Sie zutreffen können oder auch nicht. Bitte geben Sie an, inwieweit Sie dieser Aussage zustimmen oder nicht zustimmen. 1 bedeutet \"stimme überhaupt nicht zu\", 2 bedeutet \"ein wenig nicht einverstanden\", 3 bedeutet \"stimme weder zu noch stimme nicht zu\", 4 bedeutet \"stimme wenig zu\", 5 bedeutet \"stimme voll und ganz zu\". Bitte bewerten Sie die folgenden Beschreibungen auf der Grundlage Ihrer tatsächlichen Gefühle und Erfahrungen. Hier sind die Aussagen, bewerten Sie sie nacheinander: \n 44.Ist anspruchsvoll in Kunst, Musik oder Literatur. \n \n\nBitte geben Sie Ihre Antwort auf die obige Aussage auf Deutsch."
+        }
+      ],
+      "response": "4 - stimme wenig zu.",
+      "score": 4,
+      "category": "Openness",
+      "parse_success": true,
+      "judge": "4"
+    }
+  ],
+  "statistics": {
+    "total_questions": 44,
+    "valid_responses": 42,
+    "category_statistics": {
+      "Neuroticism": {
+        "count": 8,
+        "average_score": 3.625,
+        "valid_count": 8
+      },
+      "Conscientiousness": {
+        "count": 9,
+        "average_score": 3.625,
+        "valid_count": 8
+      },
+      "Extraversion": {
+        "count": 8,
+        "average_score": 3.5,
+        "valid_count": 8
+      },
+      "Agreeableness": {
+        "count": 9,
+        "average_score": 3.3333333333333335,
+        "valid_count": 9
+      },
+      "Openness": {
+        "count": 10,
+        "average_score": 3.888888888888889,
+        "valid_count": 9
+      }
+    }
+  }
+}
