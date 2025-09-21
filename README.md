@@ -175,8 +175,8 @@ Evaluates perfectionism across multiple dimensions, including self-oriented, oth
 ### 20. CSE - Core Self-Evaluations Scale  
 Assesses fundamental self-appraisals, including self-esteem, self-efficacy, locus of control, and emotional stability.
 
-### 21. TSI - Trauma Symptom Inventory  
-Measures psychological symptoms associated with traumatic experiences, including anxiety, depression, and dissociation.
+### 21. TSI - Thinking Styles Inventory
+This inventory assesses thinking preferences across multiple dimensions, including legislative, executive, judicial, autocratic, hierarchical, competitive, anarchic, global, local, introverted, extroverted, radical, and conservative styles.
 
 # Citation
 
