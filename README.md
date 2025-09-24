@@ -88,7 +88,7 @@ questionnaire_generation:
   translation:
     enabled: true
     target_languages: 
-      de: true
+      de: true      # Enabling this option will translate the scale into German
       
 # Questionnaire Testing Configuration
 questionnaire_testing:
@@ -97,9 +97,9 @@ questionnaire_testing:
     models:
       - "gpt-4o"
     languages:
-      de: true
+      de: true      # Enabling this option will test the questionnaire in German
     inner_setting_types: 
-      LRP: true
+      LRP: true     # Enabling this option will use lightweight role-playing for testing
 ```
 
 ### Run the Code
